@@ -1,7 +1,6 @@
 ###
 Hi! My name is Selim and im a young developer from Turkiye. I know Java, JavaScript, C(a little bit), C#, CPP, Pyhton, HTML.
 I'm currently focusing on TEKNOFEST Rocket Competition after finishing my work i'll probably start working for my own mailserver.
-Reach me with Discord: selimdur
 <!--
 **Selimdur/selimdur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
